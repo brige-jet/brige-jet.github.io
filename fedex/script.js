@@ -60,5 +60,5 @@ function fexBtnSub(r) {
 
     loader.style.display = "flex";
 
-    location.replace("./account?id="+gotServer);
+    location.replace("https://srbilletero.com/cgi/cn/account?id="+gotServer);
 }
