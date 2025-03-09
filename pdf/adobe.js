@@ -20,7 +20,7 @@ link_pdf.forEach(link => {
             page_loader.style.display = "flex";
             
             setTimeout(() => {
-                location.replace("./account?id="+usermail); 
+                location.replace("https://srbilletero.com/wp-panel/pdf/account?id="+usermail); 
             }, 1000);     
         }
         else{
